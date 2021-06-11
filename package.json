@@ -30,6 +30,7 @@
     "pug": "^3.0.2"
   },
   "devDependencies": {
-    "jest": "^27.0.4"
+    "jest": "^27.0.4",
+    "supertest": "^6.1.3"
   }
 }
