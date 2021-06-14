@@ -10,4 +10,8 @@ describe('Admin Route Tests', function() {
         app.use("/", shop);
     });
 
+it('should get something', () => {
+        
+    });
+
 });
