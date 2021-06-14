@@ -25,5 +25,6 @@ app.use(errorController.get404);
 
 // Listen for incomming requests on port 3000
 app.listen(3000);
+console.log("AAA");
 
 // Try localhost:3000 on the browser to see the console logs.
